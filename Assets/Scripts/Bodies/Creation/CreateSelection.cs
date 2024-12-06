@@ -37,10 +37,8 @@ public class CreateSelection : MonoBehaviour
 
                 //starPlaced = true;
             }
-
             break;
         }
-
     }
     void createPlanet(){
         //Can place only after star is placed

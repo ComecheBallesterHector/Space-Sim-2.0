@@ -8,7 +8,7 @@ public class BodyCreation : MonoBehaviour
     public Slider radiusSel;
     public Text rText;
     float rVal;
-    float solarRadius = 10f;
+    float solarRadius = 1f;
 
     float p; //Density
     public Slider densSel;
